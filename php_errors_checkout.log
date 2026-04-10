@@ -1,0 +1,2275 @@
+[28-Oct-2025 04:12:13 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761621133357
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:12:13 Europe/Berlin] Exception in checkout.php: Unknown column 'timestamp' in 'field list'
+[28-Oct-2025 04:14:16 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761621256520
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:14:16 Europe/Berlin] Exception in checkout.php: Unknown column 'order_type' in 'field list'
+[28-Oct-2025 04:14:17 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761621257577
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:14:17 Europe/Berlin] Exception in checkout.php: Unknown column 'order_type' in 'field list'
+[28-Oct-2025 04:14:18 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761621258615
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:14:18 Europe/Berlin] Exception in checkout.php: Unknown column 'order_type' in 'field list'
+[28-Oct-2025 04:14:46 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761621286266
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:15:02 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761621302613
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:29:54 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622194531
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:30:03 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622203848
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:30:12 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622212752
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:30:31 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622231782
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:32:37 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622357522
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:36:03 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622563761
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:37:54 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761622674830
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:43:45 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761623025220
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:45:01 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761623101679
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:48:04 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761623284278
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:55:02 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761623701958
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Take Out
+)
+
+[28-Oct-2025 04:56:02 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761623762064
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 04:58:07 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761623887937
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:01:44 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761624104470
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:12:35 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761624755808
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R1
+                    [name] => Chopsuey
+                    [category] => shortorder
+                    [price] => 245
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/chopsuey.jpg
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 507.6
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:12:59 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761624779550
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:14:48 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761624888862
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:16:46 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625006273
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:20:19 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625219166
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:23:57 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625437816
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:25:49 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625549654
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:28:32 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625712629
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:32:28 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625948552
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:32:34 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761625954596
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:34:59 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761626099716
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:45:05 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761626705922
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => B1
+                    [name] => San Miguel Pilsen
+                    [category] => beer
+                    [price] => 95
+                    [image] => assets/img/beer/1.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 102.6
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:49:42 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761626982107
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 05:52:34 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761627154397
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R1
+                    [name] => Chopsuey
+                    [category] => shortorder
+                    [price] => 245
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/chopsuey.jpg
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [code] => R8
+                    [name] => Sprite 12oz
+                    [category] => drinks
+                    [price] => 35
+                    [description] => 
+                    [image] => assets/img/drinks/sprite12.jpg
+                    [quantity] => 1
+                )
+
+            [3] => Array
+                (
+                    [code] => D5
+                    [name] => Crispy Pata (large)
+                    [category] => pork
+                    [price] => 795
+                    [description] => Good for 4-5 people
+                    [image] => assets/img/pork/pata.jpg
+                    [quantity] => 2
+                )
+
+        )
+
+    [total] => 2262.6
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 06:02:44 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761627764734
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 06:03:03 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761627783047
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 972
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 06:06:45 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761628005114
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R1
+                    [name] => Chopsuey
+                    [category] => shortorder
+                    [price] => 245
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/chopsuey.jpg
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bihon.jpg
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [code] => D5
+                    [name] => Crispy Pata (large)
+                    [category] => pork
+                    [price] => 795
+                    [description] => Good for 4-5 people
+                    [image] => assets/img/pork/pata.jpg
+                    [quantity] => 1
+                )
+
+            [3] => Array
+                (
+                    [code] => D4
+                    [name] => Lumpia Prito
+                    [category] => pork
+                    [price] => 235
+                    [description] => 12 pieces
+                    [image] => assets/img/pork/lumpia.jpg
+                    [quantity] => 1
+                )
+
+            [4] => Array
+                (
+                    [code] => N1
+                    [name] => Sprite 1ltr
+                    [category] => drinks
+                    [price] => 100
+                    [description] => 
+                    [image] => assets/img/drinks/sprite1ltr.jpg
+                    [quantity] => 1
+                )
+
+            [5] => Array
+                (
+                    [code] => P2
+                    [name] => Red Horse 500ml (5 Bottles)
+                    [category] => beer
+                    [price] => 530
+                    [image] => assets/img/beer/6f.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 2300.4
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 06:57:45 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761631065769
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [code] => D5
+                    [name] => Crispy Pata (large)
+                    [category] => pork
+                    [price] => 795
+                    [description] => Good for 4-5 people
+                    [image] => assets/img/pork/pata.jpg
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [code] => R8
+                    [name] => Sprite 12oz
+                    [category] => drinks
+                    [price] => 35
+                    [description] => 
+                    [image] => assets/img/drinks/sprite12.jpg
+                    [quantity] => 1
+                )
+
+            [3] => Array
+                (
+                    [code] => B3
+                    [name] => San Mig Light
+                    [category] => beer
+                    [price] => 100
+                    [image] => assets/img/beer/2.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 1490.4
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 07:08:08 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761631688799
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => P10
+                    [name] => SMB Super Dry (5 Bottles)
+                    [category] => beer
+                    [price] => 700
+                    [image] => assets/img/beer/10f.png
+                    [quantity] => 6
+                )
+
+        )
+
+    [total] => 4536
+    [username] => customer
+    [orderType] => Take Out
+)
+
+[28-Oct-2025 07:12:06 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761631926095
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 486
+    [username] => customer
+    [orderType] => Take Out
+)
+
+[28-Oct-2025 07:15:58 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761632158527
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => B3
+                    [name] => San Mig Light
+                    [category] => beer
+                    [price] => 100
+                    [image] => assets/img/beer/2.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 108
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 07:16:09 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761632169936
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 9
+                )
+
+        )
+
+    [total] => 2187
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 07:46:36 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761633996524
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [code] => R8
+                    [name] => Sprite 12oz
+                    [category] => drinks
+                    [price] => 35
+                    [description] => 
+                    [image] => assets/img/drinks/sprite12.jpg
+                    [quantity] => 1
+                )
+
+            [2] => Array
+                (
+                    [code] => B2
+                    [name] => San Miguel Pilsen (5 Bottles)
+                    [category] => beer
+                    [price] => 450
+                    [image] => assets/img/beer/1f.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 766.8
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 08:02:38 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761634958453
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [code] => R8
+                    [name] => Sprite 12oz
+                    [category] => drinks
+                    [price] => 35
+                    [description] => 
+                    [image] => assets/img/drinks/sprite12.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 280.8
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[28-Oct-2025 08:19:50 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1761635990567
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[17-Nov-2025 14:54:13 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD1763387653080
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R3
+                    [name] => Pancit Canton
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => assets/img/short_orders/pancitcanton.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 243
+    [username] => customer
+    [orderType] => Dine In
+)
+
+[17-Nov-2025 16:10:46 Europe/Berlin] Received POST data: Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 2
+                )
+
+        )
+
+    [total] => 450
+    [username] => guest
+    [orderType] => Dine In
+)
+
+[17-Nov-2025 16:10:46 Europe/Berlin] PHP Warning:  Undefined array key "orderId" in C:\xampp\htdocs\ordering2\checkout.php on line 48
+[17-Nov-2025 16:11:08 Europe/Berlin] Received POST data: Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [username] => guest
+    [orderType] => Dine In
+)
+
+[17-Nov-2025 16:11:08 Europe/Berlin] PHP Warning:  Undefined array key "orderId" in C:\xampp\htdocs\ordering2\checkout.php on line 48
+[17-Nov-2025 16:11:40 Europe/Berlin] Received POST data: Array
+(
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [username] => guest
+    [orderType] => Dine In
+)
+
+[17-Nov-2025 16:11:40 Europe/Berlin] PHP Warning:  Undefined array key "orderId" in C:\xampp\htdocs\ordering2\checkout.php on line 48
+[17-Nov-2025 16:22:47 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763392967555
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 3
+                )
+
+        )
+
+    [total] => 675
+    [username] => guest
+    [orderType] => Dine In
+    [timestamp] => 2025-11-17T15:22:47.555Z
+)
+
+[17-Nov-2025 16:25:49 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763393149940
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N7
+                    [name] => Bottled Water
+                    [category] => drinks
+                    [price] => 30
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/water.jpg
+                    [quantity] => 4
+                )
+
+            [1] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 1020
+    [username] => guest
+    [orderType] => Take Out
+    [timestamp] => 2025-11-17T15:25:49.940Z
+)
+
+[17-Nov-2025 16:26:14 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763393174507
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N7
+                    [name] => Bottled Water
+                    [category] => drinks
+                    [price] => 30
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/water.jpg
+                    [quantity] => 3
+                )
+
+        )
+
+    [total] => 90
+    [username] => guest
+    [orderType] => Dine In
+    [timestamp] => 2025-11-17T15:26:14.507Z
+)
+
+[17-Nov-2025 16:27:43 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763393263372
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N4
+                    [name] => Canned Sprite
+                    [category] => drinks
+                    [price] => 99
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/sprite can.jpg
+                    [quantity] => 3
+                )
+
+        )
+
+    [total] => 297
+    [username] => guest
+    [orderType] => Take Out
+    [timestamp] => 2025-11-17T15:27:43.372Z
+)
+
+[17-Nov-2025 16:40:13 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763394013201
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N7
+                    [name] => Bottled Water
+                    [category] => drinks
+                    [price] => 30
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/water.jpg
+                    [quantity] => 2
+                )
+
+        )
+
+    [total] => 60
+    [username] => guest
+    [orderType] => Dine In
+    [timestamp] => 2025-11-17T15:40:13.201Z
+)
+
+[17-Nov-2025 16:54:02 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763394842078
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N7
+                    [name] => Bottled Water
+                    [category] => drinks
+                    [price] => 30
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/water.jpg
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 2
+                )
+
+            [2] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+            [3] => Array
+                (
+                    [code] => N2
+                    [name] => Canned Coke
+                    [category] => drinks
+                    [price] => 99
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/coke can.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 834
+    [orderType] => Take Out
+    [timestamp] => 2025-11-17T15:54:02.078Z
+)
+
+[17-Nov-2025 16:54:02 Europe/Berlin] Invalid or missing POST data
+[17-Nov-2025 16:54:04 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763394844055
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N7
+                    [name] => Bottled Water
+                    [category] => drinks
+                    [price] => 30
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/water.jpg
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 2
+                )
+
+            [2] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+            [3] => Array
+                (
+                    [code] => N2
+                    [name] => Canned Coke
+                    [category] => drinks
+                    [price] => 99
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/coke can.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 834
+    [orderType] => Take Out
+    [timestamp] => 2025-11-17T15:54:04.055Z
+)
+
+[17-Nov-2025 16:54:04 Europe/Berlin] Invalid or missing POST data
+[17-Nov-2025 16:54:05 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763394845809
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => N7
+                    [name] => Bottled Water
+                    [category] => drinks
+                    [price] => 30
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/water.jpg
+                    [quantity] => 2
+                )
+
+            [1] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 2
+                )
+
+            [2] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+            [3] => Array
+                (
+                    [code] => N2
+                    [name] => Canned Coke
+                    [category] => drinks
+                    [price] => 99
+                    [description] => 
+                    [image] => http://localhost/ordering2/assets/img/drinks/coke can.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 834
+    [orderType] => Dine In
+    [timestamp] => 2025-11-17T15:54:05.809Z
+)
+
+[17-Nov-2025 16:54:05 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 00:13:37 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763594017100
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => 123
+                    [name] => 123
+                    [category] => shortorder
+                    [price] => 123
+                    [description] => 123
+                    [image] => http://localhost/ordering2/product_691e4f0f0f516.png
+                    [quantity] => 2
+                )
+
+        )
+
+    [total] => 246
+    [orderType] => Dine In
+    [timestamp] => 2025-11-19T23:13:37.100Z
+)
+
+[20-Nov-2025 00:13:37 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 00:13:40 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763594020677
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => 123
+                    [name] => 123
+                    [category] => shortorder
+                    [price] => 123
+                    [description] => 123
+                    [image] => http://localhost/ordering2/product_691e4f0f0f516.png
+                    [quantity] => 2
+                )
+
+        )
+
+    [total] => 246
+    [orderType] => Dine In
+    [timestamp] => 2025-11-19T23:13:40.677Z
+)
+
+[20-Nov-2025 00:13:40 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 00:13:44 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763594024120
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => 123
+                    [name] => 123
+                    [category] => shortorder
+                    [price] => 123
+                    [description] => 123
+                    [image] => http://localhost/ordering2/product_691e4f0f0f516.png
+                    [quantity] => 2
+                )
+
+        )
+
+    [total] => 246
+    [orderType] => Dine In
+    [timestamp] => 2025-11-19T23:13:44.120Z
+)
+
+[20-Nov-2025 00:13:44 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 00:13:50 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763594030731
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-19T23:13:50.731Z
+)
+
+[20-Nov-2025 00:13:50 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 00:13:52 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763594032650
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-19T23:13:52.650Z
+)
+
+[20-Nov-2025 00:13:52 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:21:05 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630465246
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:21:05.246Z
+)
+
+[20-Nov-2025 10:21:05 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:21:06 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630466473
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:21:06.473Z
+)
+
+[20-Nov-2025 10:21:06 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:21:07 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630467919
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:21:07.919Z
+)
+
+[20-Nov-2025 10:21:07 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:21:09 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630469666
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:21:09.666Z
+)
+
+[20-Nov-2025 10:21:09 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:21:11 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630471114
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:21:11.114Z
+)
+
+[20-Nov-2025 10:21:11 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:21:13 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630473146
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:21:13.146Z
+)
+
+[20-Nov-2025 10:21:13 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:22:30 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763630550145
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:22:30.146Z
+)
+
+[20-Nov-2025 10:22:30 Europe/Berlin] Invalid or missing POST data
+[20-Nov-2025 10:34:28 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763631268401
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 4
+                )
+
+        )
+
+    [total] => 900
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:34:28.401Z
+)
+
+[20-Nov-2025 10:37:31 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763631451531
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T09:37:31.531Z
+)
+
+[20-Nov-2025 10:58:27 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763632707787
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R4
+                    [name] => Bihon Guisado
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => http://localhost/ordering2/assets/img/short_orders/bihon.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Take Out
+    [timestamp] => 2025-11-20T09:58:27.787Z
+)
+
+[20-Nov-2025 11:17:18 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763633838780
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => 123
+                    [name] => 123
+                    [category] => shortorder
+                    [price] => 123
+                    [description] => 123
+                    [image] => admin/product_images/product_691eea970ff79.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 123
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T10:17:18.780Z
+)
+
+[20-Nov-2025 12:52:37 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639557013
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:37.013Z
+)
+
+[20-Nov-2025 12:52:37 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:39 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639559571
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:39.571Z
+)
+
+[20-Nov-2025 12:52:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:40 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639560828
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:40.828Z
+)
+
+[20-Nov-2025 12:52:40 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:41 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639561572
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:41.572Z
+)
+
+[20-Nov-2025 12:52:41 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:42 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639562055
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:42.055Z
+)
+
+[20-Nov-2025 12:52:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:42 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639562382
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:42.382Z
+)
+
+[20-Nov-2025 12:52:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:48 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639568766
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:48.766Z
+)
+
+[20-Nov-2025 12:52:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:52 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639572032
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Take Out
+    [timestamp] => 2025-11-20T11:52:52.032Z
+)
+
+[20-Nov-2025 12:52:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:53 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639573460
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:53.460Z
+)
+
+[20-Nov-2025 12:52:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65
+[20-Nov-2025 12:52:54 Europe/Berlin] Received POST data: Array
+(
+    [orderId] => ORD-1763639574700
+    [username] => guest
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [code] => R2
+                    [name] => Bam-e
+                    [category] => shortorder
+                    [price] => 225
+                    [description] => Good for 3-4 people
+                    [image] => admin/product_images/assets/img/short_orders/bam-e.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 225
+    [orderType] => Dine In
+    [timestamp] => 2025-11-20T11:52:54.700Z
+)
+
+[20-Nov-2025 12:52:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'order_type' in 'field list' in C:\xampp\htdocs\ordering2\checkout.php:65
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\checkout.php(65): mysqli->prepare('INSERT INTO ord...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\checkout.php on line 65

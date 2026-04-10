@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - CoffeeMaster</title>
+    <meta name="description" content="Create your CoffeeMaster account to start ordering premium coffee and pastries">
+    <meta name="keywords" content="signup, registration, create account, coffee ordering">
+    <meta property="og:title" content="Sign Up - CoffeeMaster">
+    <meta property="og:description" content="Create your CoffeeMaster account to start ordering premium coffee and pastries">
+    <meta name="twitter:title" content="Sign Up - CoffeeMaster">
+    <meta name="twitter:description" content="Create your CoffeeMaster account to start ordering premium coffee and pastries">
+
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react@18/umd/react.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://resource.trickle.so/vendor_lib/unpkg/lucide-static@0.516.0/font/lucide.css" rel="stylesheet">
+
+    <style type="text/tailwindcss">
+    @layer theme {
+        :root {
+            --primary-color: #8B4513;
+            --secondary-color: #D2B48C;
+            --accent-color: #CD853F;
+            --text-primary: #2D1810;
+            --text-secondary: #5D4E37;
+            --bg-light: #FFF8DC;
+            --success-color: #22C55E;
+            --error-color: #EF4444;
+        }
+    }
+
+    @layer base {
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-primary);
+        }
+    }
+
+    @layer components {
+        .btn-primary {
+            @apply bg-[var(--primary-color)] text-white px-6 py-3 rounded-lg hover:bg-opacity-90 transition-all duration-200 font-medium;
+        }
+        
+        .form-input {
+            @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-[var(--primary-color)] focus:border-transparent;
+        }
+        
+        .error-input {
+            @apply border-[var(--error-color)] focus:ring-[var(--error-color)];
+        }
+    }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel" src="signup-app.js"></script>
+</body>
+</html>
