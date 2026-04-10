@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyhawk Resto Bar Admin- Login</title>
+    <meta name="description" content="Admin login for coffee and pastry shop management system">
+    <meta name="keywords" content="coffee shop, admin, login, management">
+    <meta property="og:title" content="Coffee Shop Admin Login">
+    <meta property="og:description" content="Admin login for coffee and pastry shop management system">
+    <meta name="twitter:title" content="Coffee Shop Admin Login">
+    <meta name="twitter:description" content="Admin login for coffee and pastry shop management system">
+
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react@18/umd/react.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://resource.trickle.so/vendor_lib/unpkg/lucide-static@0.516.0/font/lucide.css" rel="stylesheet">
+
+    <style type="text/tailwindcss">
+    @layer theme {
+        :root {
+            --primary-color: #23138b;
+            --secondary-color: #361ed2;
+            --accent-color: #6260f4;
+            --bg-color: #dce0ff;
+            --text-dark: #1b153c;
+            --success-color: #28a745;
+            --error-color: #dc3545;
+        }
+    }
+
+    @layer components {
+        .btn-primary {
+            @apply bg-[var(--primary-color)] text-white px-6 py-3 rounded-lg font-medium hover:bg-opacity-90 transition-all duration-200 flex items-center justify-center gap-2;
+        }
+        
+        .input-field {
+            @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-[var(--primary-color)] focus:border-transparent;
+        }
+        
+        .card {
+            @apply bg-white rounded-lg shadow-lg p-6;
+        }
+    }
+    </style>
+</head>
+<body class="bg-[var(--bg-color)] min-h-screen">
+    <div id="root"></div>
+    <script type="text/babel" src="utils/auth.js"></script>
+    <script type="text/babel" src="components/Alert.js"></script>
+    <script type="text/babel" src="app.js"></script>
+</body>
+</html>

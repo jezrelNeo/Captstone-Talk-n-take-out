@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyhawk Admin - Pending Orders</title>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react@18/umd/react.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <style type="text/tailwindcss">
+    @layer theme {
+        :root {
+            --primary-color: #1e3a8a;
+            --accent-color: #4f46e5;
+            --bg-color: #e0e7ff;
+            --text-dark: #1e293b;
+            --success-color: #16a34a;
+        }
+    }
+    @layer components {
+        .card { @apply bg-white rounded-xl shadow-lg p-6 hover:shadow-2xl transition-all duration-300; }
+        .btn-green { @apply bg-[var(--success-color)] hover:bg-green-700 text-white font-bold py-4 rounded-lg transition-all transform hover:scale-105 shadow-lg; }
+    }
+    </style>
+</head>
+<body class="bg-[var(--bg-color)] min-h-screen">
+
+    <div id="root"></div>
+    <script type="text/babel" src="utils/auth.js"></script>
+    <script type="text/babel" src="components/Header.js"></script>
+    <!-- MAIN APP -->
+     <script type="text/babel" src="utils/OrderManager.js"></script>
+    <script type="text/babel" src="orders-app.js"></script>
+
+</body>
+</html>

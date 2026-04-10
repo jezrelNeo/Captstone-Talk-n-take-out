@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyhawk Admin - Add New Product</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style type="text/tailwindcss">
+        @layer components {
+            .btn { @apply px-6 py-3 rounded-lg font-medium transition-all; }
+            .btn-primary { @apply bg-blue-600 hover:bg-blue-700 text-white; }
+            .btn-success { @apply bg-green-600 hover:bg-green-700 text-white; }
+            .btn-danger { @apply bg-red-600 hover:bg-red-700 text-white; }
+            .input { @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:outline-none; }
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen">
+
+    <div id="root"></div>
+
+    <script src="../utils/auth.js"></script>
+
+    <script type="text/babel">
+        const { useState, useEffect } = React;
+
+        function AddProduct() {
+            const [form, setForm] = useState({
+                name: '',
+                code: '',
+                price: '',
+                description: '',
+                image: '',
+                category: 'shortorder',
+                is_available: 1
+            });
+            const [message, setMessage] = useState('');
+            const [isError, setIsError] = useState(false);
+
+            useEffect(() => {
+                if (!AuthService.isAuthenticated()) {
+                    alert("Please login first!");
+                    window.location.href = "../index.html";
+                }
+            }, []);
+
+            const categories = [
+                { value: 'shortorder', label: 'Short Order' },
+                { value: 'drinks', label: 'Drinks' },
+                { value: 'beer', label: 'Beer' },
+                { value: 'pork', label: 'Pork' }
+            ];
+
+            const handleSubmit = async (e) => {
+                e.preventDefault();
+                setMessage('');
+                setIsError(false);
+
+                const formData = new FormData();
+                formData.append('name', form.name.trim());
+                formData.append('code', form.code.trim().toUpperCase());
+                formData.append('price', parseFloat(form.price));
+                formData.append('description', form.description.trim());
+                formData.append('image', form.image.trim());
+                formData.append('category', form.category);
+                formData.append('is_available', form.is_available ? 1 : 0);
+
+                try {
+                    const res = await fetch('add_product.php', {
+                        method: 'POST',
+                        body: formData
+                    });
+                    const result = await res.json();
+
+                    if (result.success) {
+                        setMessage("Product added successfully!");
+                        setIsError(false);
+                        e.target.reset();
+                        setForm({
+                            name: '', code: '', price: '', description: '',
+                            image: '', category: 'shortorder', is_available: 1
+                        });
+                    } else {
+                        setMessage(result.message || "Failed to add product");
+                        setIsError(true);
+                    }
+                } catch (err) {
+                    setMessage("Network error. Please try again.");
+                    setIsError(true);
+                }
+            };
+
+            return (
+                <div className="min-h-screen bg-gray-100">
+                    <nav className="navbar-sticky bg-white shadow-lg p-4">
+                        <div className="container mx-auto flex justify-between items-center">
+                            <h1 className="text-2xl font-bold text-blue-700">Skyhawk Resto Bar - Admin</h1>
+                            <div className="space-x-4">
+                                <a href="/ordering2/admin/order.html" className="btn btn-primary">Order</a>
+                                <a href="/ordering2/admin/cart.html" className="btn btn-primary">Cart</a>
+                                <a href="/ordering2/admin/dashboard.html" className="btn btn-primary">Dashboard</a>
+                                <a href="/ordering2/admin/products.html" className="btn btn-primary">Manage Products</a>
+                                <a href="/ordering2/admin/add-product.html" className="btn btn-success font-bold">+ Add Product</a>
+                            </div>
+                        </div>
+                    </nav>
+
+                    <div className="max-w-3xl mx-auto mt-12 p-8">
+                        <div className="bg-white rounded-2xl shadow-xl p-10">
+                            <h2 className="text-3xl font-bold text-center mb-8 text-blue-700">Add New Product</h2>
+
+                            {message && (
+                                <div className={`text-center p-4 rounded-lg mb-6 ${isError ? 'bg-red-100 text-red-700' : 'bg-green-100 text-green-700'}`}>
+                                    {message}
+                                </div>
+                            )}
+
+                            <form onSubmit={handleSubmit} className="space-y-6">
+                                <div>
+                                    <label className="block text-sm font-medium text-gray-700 mb-2">Product Name *</label>
+                                    <input
+                                        type="text"
+                                        name="name"
+                                        required
+                                        value={form.name}
+                                        onChange={(e) => setForm({...form, name: e.target.value})}
+                                        className="input"
+                                        placeholder="Ex: Sisig Platter"
+                                    />
+                                </div>
+
+                                <div>
+                                    <label className="block text-sm font-medium text-gray-700 mb-2">Product Code * (e.g. S1, D10)</label>
+                                    <input
+                                        type="text"
+                                        name="code"
+                                        required
+                                        value={form.code}
+                                        onChange={(e) => setForm({...form, code: e.target.value.toUpperCase()})}
+                                        className="input"
+                                        placeholder="S1"
+                                    />
+                                </div>
+
+                                <div>
+                                    <label className="block text-sm font-medium text-gray-700 mb-2">Price (₱) *</label>
+                                    <input
+                                        type="number"
+                                        step="0.01"
+                                        min="0"
+                                        required
+                                        value={form.price}
+                                        onChange={(e) => setForm({...form, price: e.target.value})}
+                                        className="input"
+                                        placeholder="199.00"
+                                    />
+                                </div>
+
+                                <div>
+                                    <label className="block text-sm font-medium text-gray-700 mb-2">Image URL (optional)</label>
+                                    <input
+                                        type="url"
+                                        value={form.image}
+                                        onChange={(e) => setForm({...form, image: e.target.value})}
+                                        className="input"
+                                        placeholder="https://example.com/sisig.jpg"
+                                    />
+                                </div>
+
+                                <div>
+                                    <label className="block text-sm font-medium text-gray-700 mb-2">Description (optional)</label>
+                                    <textarea
+                                        rows="4"
+                                        value={form.description}
+                                        onChange={(e) => setForm({...form, description: e.target.value})}
+                                        className="input"
+                                        placeholder="Crispy pork sisig served with egg and calamansi..."
+                                    />
+                                </div>
+
+                                <div>
+                                    <label className="block text-sm font-medium text-gray-700 mb-2">Category *</label>
+                                    <select
+                                        value={form.category}
+                                        onChange={(e) => setForm({...form, category: e.target.value})}
+                                        className="input"
+                                    >
+                                        {categories.map(cat => (
+                                            <option key={cat.value} value={cat.value}>{cat.label}</option>
+                                        ))}
+                                    </select>
+                                </div>
+
+                                <div className="flex items-center">
+                                    <input
+                                        type="checkbox"
+                                        id="available"
+                                        checked={form.is_available}
+                                        onChange={(e) => setForm({...form, is_available: e.target.checked})}
+                                        className="w-5 h-5 text-blue-600"
+                                    />
+                                    <label htmlFor="available" className="ml-3 text-sm font-medium text-gray-700">
+                                        Product is available for ordering
+                                    </label>
+                                </div>
+
+                                <div className="flex justify-center gap-6 pt-6">
+                                    <button type="submit" className="btn btn-success text-lg px-12">
+                                        Add Product
+                                    </button>
+                                    <a href="/ordering2/admin/products.html" className="btn bg-gray-600 hover:bg-gray-700 text-white text-lg px-12">
+                                        Back to Products
+                                    </a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            );
+        }
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<AddProduct />);
+    </script>
+</body>
+</html>

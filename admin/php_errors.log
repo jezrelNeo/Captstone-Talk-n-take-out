@@ -1,0 +1,65 @@
+[27-Oct-2025 22:57:54 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:31
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(31): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 31
+[27-Oct-2025 22:57:55 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:31
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(31): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 31
+[27-Oct-2025 22:57:56 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:31
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(31): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 31
+[27-Oct-2025 23:35:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:35:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:35:49 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:35:50 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:42:52 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:42:53 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:43:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:43:15 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:43:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38
+[27-Oct-2025 23:43:17 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in C:\xampp\htdocs\ordering2\admin\get_orders.php:38
+Stack trace:
+#0 C:\xampp\htdocs\ordering2\admin\get_orders.php(38): mysqli->query('SELECT order_id...')
+#1 {main}
+  thrown in C:\xampp\htdocs\ordering2\admin\get_orders.php on line 38

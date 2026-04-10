@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skyhawk Admin - Inventory</title>
+
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react@18/umd/react.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://resource.trickle.so/vendor_lib/unpkg/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <style type="text/tailwindcss">
+    @layer theme {
+        :root {
+            --primary-color: #23138b;
+            --secondary-color: #361ed2;
+            --accent-color: #6260f4;
+            --bg-color: #dce0ff;
+            --text-dark: #1b153c;
+            --success-color: #28a745;
+        }
+    }
+    @layer components {
+        .btn-primary { @apply bg-[var(--primary-color)] text-white px-8 py-4 rounded-xl font-bold hover:opacity-90 transition shadow-xl text-xl; }
+        .btn-success { @apply bg-[var(--success-color)] text-white px-8 py-4 rounded-xl font-bold hover:bg-green-700 transition; }
+        .btn-danger { @apply bg-red-600 text-white px-6 py-3 rounded-lg font-bold hover:bg-red-700 transition text-sm; }
+        .input { @apply w-full px-6 py-4 border border-gray-300 rounded-xl focus:ring-4 focus:ring-[var(--accent-color)] outline-none text-lg; }
+    }
+    </style>
+</head>
+<body class="bg-[var(--bg-color)] min-h-screen">
+    <div id="root"></div>
+
+    <script type="text/babel" src="utils/auth.js"></script>
+    <script type="text/babel" src="components/Header.js"></script>
+    <script type="text/babel" src="inventory-app.js"></script>
+</body>
+</html>
