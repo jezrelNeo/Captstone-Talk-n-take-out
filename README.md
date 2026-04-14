@@ -65,7 +65,7 @@ coffee_master.sql
 5. Run the Project
 
 Open your browser and go to:
-http://localhost/TalknTakeout
+http://localhost/Capstone-Talk-n-Take-out
 
 Performance Highlights
 Ordering time reduced by approximately 40%
